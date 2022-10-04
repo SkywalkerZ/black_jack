@@ -1,7 +1,7 @@
 # black_jack
 A fun python game
 
-Project #50
+Project #10
 
 Goal to finish 50 (40 more) projects each taking advantage of a characteristic in Python
 
